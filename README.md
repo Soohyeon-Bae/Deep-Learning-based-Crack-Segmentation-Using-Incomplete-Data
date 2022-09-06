@@ -1,7 +1,7 @@
 # Deep learning-based crack segmentation using incomplete data 
 
 
-1. 딥러닝 모델별 성능평가
+1. 딥러닝 모델별 성능평가 
 
 Deeplabv3+
 
